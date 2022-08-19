@@ -41,4 +41,3 @@ const FooterContainter = styled.footer`
     }
 `;
 
-// komentar
