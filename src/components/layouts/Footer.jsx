@@ -40,3 +40,5 @@ const FooterContainter = styled.footer`
         padding-bottom: 1rem;
     }
 `;
+
+// komentar
